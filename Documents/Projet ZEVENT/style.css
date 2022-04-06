@@ -1,0 +1,64 @@
+.fond{
+	background-color: black;
+}
+.texte{
+	color: #FFF;
+	font-size: 20px;
+	font-family: Arial;
+	text-align: center;
+}
+.title{
+	color: #FFF;
+	font-size: 50px;
+	text-decoration: underline;
+	text-align: center;
+	font-family: Arial;
+	font-weight: bolder;
+}
+.blue{
+	text-decoration: underline;
+	font-family: Arial;
+	color: #FFF;
+	font-size: 10px;
+}
+a:hover{
+	color: blue;
+	text-decoration: none;
+}
+img.fond{
+	margin: auto;
+	display: flex;
+}
+.tr{
+	color: #FFF;
+	font-size: 25px;
+	text-align: center;
+	text-decoration: underline;
+}
+.td{
+	color: #FFF;
+	font-size: 25px;
+	text-align: center;
+	text-decoration: none;
+	font-family: Arial;
+}
+.tableau{
+	align-items: center;
+	text-align: center;
+	margin: auto;
+}
+.td-sp{
+	color: #FFF;
+	font-size: 30px;
+	text-align: center;
+	text-decoration: none;
+	font-family: Arial;
+}
+.texte2{
+	color: #FFF;
+	font-size: 20px;
+	font-family: Arial;
+}
+.footer{
+	display: flex;
+}
